@@ -139,3 +139,12 @@ python reddit_producer.py
 ## 📃 License
 
 MIT License
+
+## Outputs 
+
+**Producer.py**
+![image](https://github.com/user-attachments/assets/bb577817-673b-4808-9915-26e1c7573802)
+
+**Consumer.py**
+![image](https://github.com/user-attachments/assets/e91fb111-c951-4426-877e-2d615a6783c2)
+
