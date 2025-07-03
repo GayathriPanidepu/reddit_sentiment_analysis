@@ -13,9 +13,9 @@ producer = KafkaProducer(
 reddit = praw.Reddit(
     client_id='phGviyifOd5iFpLaezrv-A',
     client_secret='bkGcEsIkPQi5sfmnjeNHOgLe1R03vA',
-    user_agent="windows:SentimentApp:v1.0 (by u/Impossible_Guard2188)",
-    username='Impossible_Guard2188',
-    password='12qwaszx-@'
+    user_agent="windows:SentimentApp:v1.0 (by u/<USERNAME>)",
+    username='YOUR USERNAME',
+    password='YOUR PASSWORD'
 )
 
 def stream_reddit_posts(subreddit_name):
