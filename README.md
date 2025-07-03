@@ -148,3 +148,7 @@ MIT License
 **Consumer.py**
 ![image](https://github.com/user-attachments/assets/e91fb111-c951-4426-877e-2d615a6783c2)
 
+**Sentiment_results.csv**
+![image](https://github.com/user-attachments/assets/5407b1a2-8b26-4fdc-a80f-1f47c3d19ef5)
+
+
